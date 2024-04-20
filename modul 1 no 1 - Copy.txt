@@ -1,0 +1,37 @@
+<html>
+    <head>
+      <title>Perpustakaan</title>
+    </head>
+    <body>
+      
+      <div>
+        <ul>
+          <li>PERPUSTAKAAN USU</li>
+        </ul>
+      </div>
+
+      <div>
+        <img src="download (14).jpeg" alt="">
+      </div>
+      <div>
+        Perpustakaan USU Merupakan unit penunjang pendidikan, pengajaran, penelitian dan pengabdian masyarakat
+      </div>
+<p>Klik <a href="https://www.bing.com/search?q=perpus+usu&FORM=HDRSC1#">disini</a> untuk mengetahui informasi lebih lanjut</p>
+     
+<div>
+        <ul>
+          <li>PERPUSTAKAAN UNIMED</li>
+        </ul>
+      </div>
+
+      <div>
+        <img src="download (15).jpeg" alt="">
+      </div>
+      <div>
+        Perpustakaan sebagai sumber informasi yang lengkap bagi kebutuhan sivitas akademika Universitas Negeri Medan
+      </div>
+      <p>Klik <a href="https://www.bing.com/ck/a?!&&p=fa1f4b4eae99cdf4JmltdHM9MTcxMDI4ODAwMCZpZ3VpZD0xZWI4MTFjNS1jMjgyLTZlMGYtMzgyOS0wMjRmYzM4MzZmY2ImaW5zaWQ9NTIzOQ&ptn=3&ver=2&hsh=3&fclid=1eb811c5-c282-6e0f-3829-024fc3836fcb&psq=perpus+unimed&u=a1aHR0cHM6Ly9wZXJwdXN0YWthYW4udW5pbWVkLmFjLmlkL3dlYnNpdGU&ntb=1">disini</a> untuk mengetahui informasi lebih lanjut</p>
+        </tbody>
+      </table>
+    </body>
+</html>
